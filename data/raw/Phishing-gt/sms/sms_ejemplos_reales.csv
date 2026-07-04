@@ -1,0 +1,5 @@
+texto,remitente,fecha,dominio_acortador,archivo_origen,categoria,etiqueta,canal
+"Estimado/a senor/a: Se detecto una falta de trafico en su automovil el 18 de mayo. https://sw.run/4vK3x Actue de forma inmediata.",4664 2630,2026-06-10,sw.run,sms_002.jpg,suplantacion_transito,phishing,sms
+"Tu Bi Movil ha sido activado Este servicio no posee ningun costo adicional, para mas informacion bi.gt/3jJbgBa",3000 2424,2026-XX-XX,bi.gt,sms_003.jpg,suplantacion_banco,phishing,sms
+"Tigo:Tienes 28,254 puntos Tigo que venceran pronto. Canjealos hoy por productos en y https://www.tlgopuntos.com/gt",3158 8782,2025-05-23,tlgopuntos.com,sms_004.jpg,suplantacion_telecom,phishing,sms
+"Posees 14.188 puntos Mastercard activos. https://lnk.ink/sru7w si no los utilizas en 24h, caducaran y no podras recuperarlos en el futuro.",5524 8049,2026-XX-XX,lnk.ink,sms_001.jpg,suplantacion_tarjeta_credito,phishing,sms
